@@ -4,6 +4,10 @@
 
 [Watch our pitching video here](https://drive.google.com/your-video-link) 
 
+## Document (PRD,QATD,SAD)
+
+Can be found in the `docs/` folder.
+
 ---
 
 ## Overview

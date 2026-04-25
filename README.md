@@ -2,7 +2,7 @@
 
 ## Pitching Video
 
-[Watch our pitching video here]((https://drive.google.com/file/d/1x3aieXddvBvCGXqCRx9nSn3dxAXB9xbt/view?usp=drivesdk)) 
+[Watch our pitching video here](https://drive.google.com/file/d/1x3aieXddvBvCGXqCRx9nSn3dxAXB9xbt/view?usp=drivesdk) 
 
 ## Document (PRD,QATD,SAD)
 

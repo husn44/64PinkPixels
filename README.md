@@ -78,9 +78,9 @@ pip install -r requirements.txt
 
 ### 3. Configure Environment
 
-The `.env` file is included with pre-configured API keys for judging purposes.
+The `.env` file is not included with API keys for security purposes.
 
-If you need your own keys, edit `.env`:
+Put your own keys, edit `.env`:
 
 ```
 JSONBIN_API_KEY=your_jsonbin_api_key

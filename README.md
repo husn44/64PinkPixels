@@ -8,7 +8,7 @@
 
 ## Overview
 
-An AI-powered procurement assistant that helps organizations make smarter, more cost-effective purchasing decisions. Upload vendor quote PDFs, and the system will automatically extract, normalize, research, and adversarially analyze every quote — finding every reason NOT to choose each vendor before recommending the best deal.
+An AI-powered procurement assistant that helps organizations make smarter, more cost-effective purchasing decisions. Upload vendor quote PDFs, and the system will automatically extract, normalize, research, and adversarially analyze every quote to find reason not to choose each vendor before recommending the best deal.
 
 Built with **GLM on Z AI (ilmu-glm-5.1)** as the core AI engine for data extraction, competitive analysis, market price estimation, vendor reputation assessment, and acceptance email drafting.
 

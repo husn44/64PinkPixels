@@ -2,7 +2,7 @@
 
 ## Pitching Video
 
-[Watch our pitching video here](https://drive.google.com/your-video-link) <!-- Replace with your Google Drive link -->
+[Watch our pitching video here](https://drive.google.com/your-video-link) 
 
 ---
 
@@ -62,7 +62,7 @@ GLM is the critical AI component powering every intelligent function in the syst
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/YOUR-REPO.git
+git clone https://github.com/husn44/64PinkPixels.git
 cd ProcureIQ
 ```
 
